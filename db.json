@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "adam",
+      "email": "adam@gmail.com",
+      "password": "1234",
+      "id": "cfe6"
+    },
+    {
+      "id": "6933",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "b3b4",
+      "username": "john",
+      "email": "john@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ff1a",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "4e49",
+      "username": "john",
+      "email": "john@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3e95",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "04e4",
+      "username": "john",
+      "email": "john@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c26d",
+      "username": "manas",
+      "email": "manasa@gmail.com",
+      "password": "1234567"
+    }
+  ]
+}

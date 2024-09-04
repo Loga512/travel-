@@ -1,0 +1,50 @@
+.header3{
+    border: 1px solid transparent;
+    height:750px;
+    background-image:url("beach.jpg");
+    background-repeat:no-repeat;
+    background-size:1550px 750px;
+}
+.container12{
+    border:1px solid transparent;
+    height:80px;
+    display: flex;
+    padding-left:5rem;
+    padding-top: 2rem;
+}
+.cont21{
+    border:1px solid transparent;
+    height:500px;
+    padding-left:10rem;
+}
+.cont31{
+    border:1px solid transparent;
+    height:150px;
+    padding-left: 5rem;
+    font-size:20px;
+}
+.cont41{
+    border:1px solid transparent;
+    padding-left: 5rem;
+    font-size:20px;
+}
+.cont51{
+    border:1px solid transparent;
+    padding-left: 5rem;
+    font-size:20px;
+}
+.cont61{
+    border:1px solid transparent;
+    padding-left: 5rem;
+    padding-top: 1rem;
+}
+.hh9{
+    font-size:30px;
+    margin-left:10px;
+}
+.h10{
+    font-size:20px;
+}
+.p9{
+    font-size:20px;
+}
